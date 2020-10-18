@@ -1,10 +1,10 @@
 export default {
   ucapan: [
-    "Whatever happens, keep breathing",
-    "Dua tiga kucing saleh, gelut yuk",
-    "Hey! I wuv chuuuu! UwU",
+    "Mawar bersemi di batang kayu, do you love me like i love you?🌹",
+    "Makan abon pake sapi, i was born to make u happy😊",
+    "bunga edelweis bunga lavender, i love you always and forever",
   ],
-  panggilan: ["Bunga", "Bunge", "Bunga", "Bunge"],
+  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank", "Gita"],
   colors: [
     "#FF6900",
     "#FCB900",
