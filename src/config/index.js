@@ -7,7 +7,7 @@ export default {
     "Bunga bersemi di langit-langit, say you love me like u mean it😉",
     "Kembang mengkudu budidaya argonomi, what can i du to make u love me❤️",
   ],
-  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank", "Gita"],
+  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita"],
   colors: [
     "#FF6900",
     "#FCB900",
@@ -20,6 +20,6 @@ export default {
     "#F78DA7",
     "#000000",
     "#833AB4",
-    "#FCAF45",
+    
   ],
 };
