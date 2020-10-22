@@ -197,7 +197,7 @@ class App extends Component {
               className={this.state.bgcolor !== "#000000" ? "hidden" : "show"}
             >
               <h1 className="baffle">
-                I LOVE YOU GITA SAYANG 💘 
+                I LOVE YOU GITA SAYANG 
               </h1>
             </div>
           </div>
