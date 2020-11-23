@@ -6,8 +6,8 @@ export default {
     "Makan jelly rasa tomat, literally i miss so much❤️",
     "Bunga bersemi di langit-langit, say you love me like u mean it😉",
     "Kembang mengkudu budidaya argonomi, what can i du to make u love me❤️",
-    "Canting dan Kayu dibawa Bayu, Nothing's gonna change my love for You",
-    "Ada mermaid wajah nya layu, i was made for loving you",
+    "Canting dan Kayu dibawa Bayu, Nothing's gonna change my love for You💖",
+    "Ada mermaid wajah nya layu, i was made for loving you😍",
   ],
   panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita"],
   colors: [
@@ -23,6 +23,10 @@ export default {
     "#000000",
     "#833AB4",
     "#46FFBC",
+    "#9932CC",
+    "#FF1493",
+    "#2F4F4F",
+    "#800000",
     
   ],
 };
