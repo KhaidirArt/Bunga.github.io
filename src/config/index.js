@@ -10,7 +10,7 @@ export default {
     "Ada mermaid wajah nya layu, i was made for loving you😍",
     "Malam-malam kerumah kawan disuruh ambil kayu, I'am the one Who want's to be with you🌹",
   ],
-  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita"],
+  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita", "Gitakuh Sayang",],
   colors: [
     "#FF6900",
     "#FCB900",
