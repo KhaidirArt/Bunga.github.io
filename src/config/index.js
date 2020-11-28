@@ -7,7 +7,6 @@ export default {
     "Bunga bersemi di langit-langit, say you love me like u mean it😉",
     "Kembang mengkudu budidaya argonomi, what can i du to make u love me❤️",
     "Canting dan Kayu dibawa Bayu, Nothing's gonna change my love for You💖",
-    "Ada mermaid wajah nya layu, i was made for loving you😍",
     "Malam-malam kerumah kawan disuruh ambil kayu, I'am the one Who want's to be with you🌹",
   ],
   panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita", "Gitakuh Sayang",],
