@@ -8,7 +8,7 @@ export default {
     "Kembang mengkudu budidaya argonomi, what can i du to make u love me❤️",
     "Canting dan Kayu dibawa Bayu, Nothing's gonna change my love for You💖",
   ],
-  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita", "Gitakuh Sayang",],
+  panggilan: ["Giyang", "Gita Sayang", "Ayaaaaank Gita", "Gita", "Gitakuh Sayang"],
   colors: [
     "#FF6900",
     "#FCB900",
