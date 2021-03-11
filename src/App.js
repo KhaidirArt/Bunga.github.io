@@ -8,16 +8,6 @@ import "./style/App.css";
 import "./style/Heart.css"
 import config from "./config";
 
-function App() {
-  return (
-      <div
-        class="bg_image"
-      >
-        <h1>This is Text on top</h1>
-      </div>
-  );
-}
-
 class App extends Component {
   constructor(props) {
     super(props);
