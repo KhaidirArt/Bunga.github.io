@@ -22,6 +22,16 @@ class App extends Component {
     };
   }
 
+  function App() {
+  return (
+      <div
+        class="bg_image"
+      >
+        <h1>This is Text on top</h1>
+      </div>
+  );
+}
+
   componentDidMount() {
     this.mengetik();
     this.setState({
